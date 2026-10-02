@@ -82,7 +82,7 @@ window.LELI_CONTENUTI = {
   testo_25: `01 / CREATIVE DIRECTION`,
 
   // Think out the box!
-  testo_26: `Bold ideas.<br/><em>Smart strategy.</em>`,
+  testo_26: `Think out<br/><em>the box!</em>`,
 
   // Dalla strategia all’ultimo click.
   testo_27: `Dalla strategia all’ultimo <span class="accent">click.</span>`,
