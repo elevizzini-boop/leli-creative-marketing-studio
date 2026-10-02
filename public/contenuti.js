@@ -30,11 +30,11 @@ window.LELI_CONTENUTI = {
   // Parlami del tuo progetto →
   testo_08: `Parlami del tuo progetto →`,
 
-  // Non ti serve essere ovunque. Ti serve sapere perché esserci.
-  testo_09: `Non ti serve essere ovunque.<br/><span class="accent">Ti serve sapere perché esserci.</span>`,
+  // Non ti serve essere ovunque. Ti serve raggiungere davvero il tuo target.
+  testo_09: `Non ti serve essere ovunque.<br/><span class="accent">Ti serve raggiungere davvero il tuo target.</span>`,
 
-  // Ti serve sapere perché esserci.
-  testo_10: `Ti serve sapere perché esserci.`,
+  // Ti serve raggiungere davvero il tuo target.
+  testo_10: `Ti serve raggiungere davvero il tuo target.`,
 
   // Un sito nuovo, qualche reel, una campagna ADV o un feed più bello non sono 
   testo_11: `Un sito nuovo, qualche reel, una campagna ADV o un feed più bello non sono una strategia.`,
@@ -54,7 +54,7 @@ window.LELI_CONTENUTI = {
   // Sono Eleonora Vizzini , Social Media Manager, Marketing Strategist, Content
   testo_16: `Sono <b>Eleonora Vizzini</b>, Social Media Manager, Marketing Strategist, Content Creator e Project Manager.`,
 
-  // Mi sono laureata con il massimo dei voti in Organizzazione e Marketing per 
+  // Mi sono laureata con il massimo dei voti alla magistrale di Organizzazione e Marketing per 
   testo_17: `Mi sono laureata con il massimo dei voti in Organizzazione e Marketing per la Comunicazione d’Impresa alla Sapienza di Roma, ma la parte più importante della mia formazione è arrivata sul campo, lavorando con professionisti, aziende e brand di settori molto diversi.`,
 
   // Ogni realtà ha una storia, un pubblico, degli obiettivi e qualcosa che può 
@@ -81,7 +81,7 @@ window.LELI_CONTENUTI = {
   // 01 / CREATIVE DIRECTION
   testo_25: `01 / CREATIVE DIRECTION`,
 
-  // Bold ideas. Smart strategy.
+  // Think out the box!
   testo_26: `Bold ideas.<br/><em>Smart strategy.</em>`,
 
   // Dalla strategia all’ultimo click.
@@ -198,8 +198,8 @@ window.LELI_CONTENUTI = {
   // LELI CONTENT · CONSULENZA + VIDEO
   testo_64: `LELI CONTENT · CONSULENZA + VIDEO`,
 
-  // Hai bisogno di contenuti? Partiamo da cosa devono dire.
-  testo_65: `Hai bisogno di contenuti?<br/><em>Partiamo da cosa devono dire.</em>`,
+  // Conosciamoci meglio e creiamo insieme dei video che convertono.
+  testo_65: `Conosciamoci meglio<br/><em>e creiamo insieme dei video che convertono.</em>`,
 
   // Prima analizziamo il brand, definiamo obiettivi, messaggi, format e argomen
   testo_66: `Prima analizziamo il brand, definiamo obiettivi, messaggi, format e argomenti. Poi li trasformiamo in script e in una giornata di produzione per creare <strong>un pacchetto di video strategicamente pensato per i tuoi canali.</strong>`,
