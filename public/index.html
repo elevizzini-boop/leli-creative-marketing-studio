@@ -219,7 +219,43 @@ body{overflow-x:hidden}
   .hv5:hover,.hv6:hover,.hv19:hover,.hv26:hover,.hv27:hover,.hv28:hover,.hv29:hover,.hv30:hover,
   .hv31:hover,.hv32:hover,.hv33:hover,.hv34:hover,.hv35:hover{transform:none !important}
 }
+/* Interazioni mobile */
+@media (hover:none) and (pointer:coarse){
 
+  a{
+    touch-action:manipulation;
+    -webkit-tap-highlight-color:rgba(166,94,69,.18);
+  }
+
+  /* Pulsanti principali */
+  .hv4:active,
+  .hv7:active,
+  .hv36:active,
+  .hv46:active{
+    background:var(--terra) !important;
+    color:var(--paper) !important;
+    transform:scale(.97) !important;
+  }
+
+  /* Link delle consulenze */
+  .offer-card a:active{
+    color:var(--terra) !important;
+    transform:translateX(4px);
+  }
+
+  /* Email, WhatsApp, LinkedIn */
+  .contact-links a:active{
+    color:var(--terra) !important;
+    border-bottom-color:var(--terra) !important;
+    transform:translateY(2px) !important;
+  }
+}
+
+/* Accessibilità tastiera */
+a:focus-visible{
+  outline:2px solid var(--terra);
+  outline-offset:4px;
+}
 </style>
 </head>
 <body>
