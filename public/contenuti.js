@@ -24,8 +24,8 @@ window.LELI_CONTENUTI = {
   // su misura.
   testo_06: `su misura.`,
 
-  // Idee, contenuti e competenze per far crescere il tuo brand. Costruisco stra
-  testo_07: `Idee, contenuti e competenze per far crescere il tuo brand. Costruisco strategie di comunicazione su misura e coordino professionisti specializzati per seguire il tuo progetto digitale dalla strategia alla realizzazione.`,
+  // Costruiamo una comunicazione che ti somiglia e fa crescere il tuo brand. Partiamo da ciò che rende unico il tuo progetto. Io definisco la strategia, coordino i professionisti giusti e seguo ogni fase fino alla realizzazione.
+  testo_07: `Costruiamo una comunicazione che ti somiglia e fa crescere il tuo brand. Partiamo da ciò che rende unico il tuo progetto. Io definisco la strategia, coordino i professionisti giusti e seguo ogni fase fino alla realizzazione.`,
 
   // Parlami del tuo progetto →
   testo_08: `Parlami del tuo progetto →`,
